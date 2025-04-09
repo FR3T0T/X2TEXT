@@ -1,0 +1,9 @@
+2025-04-10 00:22:44,353 - ERROR - Invalid JSON in credentials file: twitter_credentials.json
+2025-04-10 00:22:44,355 - INFO - Sample credentials file created at twitter_credentials.json
+2025-04-10 00:22:44,355 - INFO - Please fill in your API credentials in twitter_credentials.json and run the program again.
+2025-04-10 00:36:14,810 - INFO - Successfully authenticated with Twitter API
+2025-04-10 00:36:14,811 - INFO - Processing tweets for user: elonmusk
+2025-04-10 00:36:16,090 - INFO - Retrieved 50 tweets for elonmusk
+2025-04-10 00:36:16,101 - INFO - Saved 50 tweets for elonmusk to twitter_data\elonmusk_20250410_003616.json
+2025-04-10 00:36:16,108 - INFO - Processing tweets for user: WhiteHouse
+2025-04-10 00:36:16,406 - WARNING - Rate limit exceeded. Sleeping for 899 seconds.

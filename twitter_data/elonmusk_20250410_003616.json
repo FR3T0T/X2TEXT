@@ -1,0 +1,2387 @@
+[
+    {
+        "id": 1910096270712283326,
+        "text": "@JamesEsses Wow",
+        "created_at": "2025-04-09T22:23:33+00:00",
+        "lang": "und",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 31,
+            "reply_count": 71,
+            "like_count": 218,
+            "quote_count": 6,
+            "bookmark_count": 3,
+            "impression_count": 4967
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1910095134118809614,
+                "text": "🚨A British police force has blocked applications from white applicants under the guise of ‘DEI’.\n\nWe are now living in a society in which racism and discrimination is permitted and encouraged, so long as the victims have white skin. https://t.co/vYFfySq2z6",
+                "created_at": "2025-04-09T22:19:02+00:00",
+                "public_metrics": {
+                    "retweet_count": 54,
+                    "reply_count": 24,
+                    "like_count": 190,
+                    "quote_count": 7,
+                    "bookmark_count": 9,
+                    "impression_count": 5586
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910095593260941413,
+        "text": "RT @teslaownersSV: Thank you Elon Musk for an exciting future https://t.co/mYoSKhMvoe",
+        "created_at": "2025-04-09T22:20:51+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 518,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 1
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "retweeted",
+                "id": 1909489378856243463,
+                "text": "Thank you Elon Musk for an exciting future https://t.co/mYoSKhMvoe",
+                "created_at": "2025-04-08T06:11:59+00:00",
+                "public_metrics": {
+                    "retweet_count": 519,
+                    "reply_count": 241,
+                    "like_count": 3441,
+                    "quote_count": 29,
+                    "bookmark_count": 84,
+                    "impression_count": 184464
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910094146821599551,
+        "text": "RT @amuse: WATER PRESSURE: It only took 29 years, but Jerry Seinfeld's complaint about government-mandated, low-flow showerheads was finall…",
+        "created_at": "2025-04-09T22:15:07+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 1132,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 2
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "retweeted",
+                "id": 1910079494809141574,
+                "text": "WATER PRESSURE: It only took 29 years, but Jerry Seinfeld's complaint about government-mandated, low-flow showerheads was finally taken seriously. Trump signed an EO to make showerheads great again. https://t.co/OhSnbPDdUO",
+                "created_at": "2025-04-09T21:16:53+00:00",
+                "public_metrics": {
+                    "retweet_count": 1132,
+                    "reply_count": 290,
+                    "like_count": 5352,
+                    "quote_count": 82,
+                    "bookmark_count": 327,
+                    "impression_count": 244316
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910092447692337633,
+        "text": "@cb_doge 😂",
+        "created_at": "2025-04-09T22:08:21+00:00",
+        "lang": "qme",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 66,
+            "reply_count": 149,
+            "like_count": 835,
+            "quote_count": 12,
+            "bookmark_count": 6,
+            "impression_count": 15349
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1910085246634057804,
+                "text": "https://t.co/rAGliWt4TZ",
+                "created_at": "2025-04-09T21:39:45+00:00",
+                "public_metrics": {
+                    "retweet_count": 206,
+                    "reply_count": 172,
+                    "like_count": 1468,
+                    "quote_count": 7,
+                    "bookmark_count": 14,
+                    "impression_count": 32032
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910092373981630862,
+        "text": "SuperGrok is free for students https://t.co/f7fTADAxbk",
+        "created_at": "2025-04-09T22:08:04+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 1064,
+            "reply_count": 1200,
+            "like_count": 8795,
+            "quote_count": 92,
+            "bookmark_count": 479,
+            "impression_count": 1647625
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "quoted",
+                "id": 1910069097884467322,
+                "text": "Students get SuperGrok from https://t.co/RJ6HYjw59D for free for 2 months when you sign up with a .edu email. Good luck with finals.\nStay in school 🫡.\nOr apply to https://t.co/aA52urQaRX.",
+                "created_at": "2025-04-09T20:35:34+00:00",
+                "public_metrics": {
+                    "retweet_count": 92,
+                    "reply_count": 60,
+                    "like_count": 674,
+                    "quote_count": 20,
+                    "bookmark_count": 251,
+                    "impression_count": 1635091
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910083291887419523,
+        "text": "@realDonaldTrump 🔥",
+        "created_at": "2025-04-09T21:31:59+00:00",
+        "lang": "qme",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 180,
+            "reply_count": 266,
+            "like_count": 4449,
+            "quote_count": 23,
+            "bookmark_count": 52,
+            "impression_count": 281724
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 282212593844764672,
+                "text": "“Deals are my art form.  I like making deals, preferably big deals.” – The Art of The Deal",
+                "created_at": "2012-12-21T19:55:00+00:00",
+                "public_metrics": {
+                    "retweet_count": 928,
+                    "reply_count": 438,
+                    "like_count": 6133,
+                    "quote_count": 259,
+                    "bookmark_count": 152,
+                    "impression_count": 0
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910075450455671234,
+        "text": "@RichardUpTheBiz 😂",
+        "created_at": "2025-04-09T21:00:49+00:00",
+        "lang": "qme",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 34,
+            "reply_count": 97,
+            "like_count": 582,
+            "quote_count": 7,
+            "bookmark_count": 6,
+            "impression_count": 24608
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1910075397963907224,
+                "text": "@elonmusk Europe jealousy just went up",
+                "created_at": "2025-04-09T21:00:37+00:00",
+                "public_metrics": {
+                    "retweet_count": 22,
+                    "reply_count": 44,
+                    "like_count": 732,
+                    "quote_count": 2,
+                    "bookmark_count": 4,
+                    "impression_count": 46937
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910074718939750651,
+        "text": "🇺🇸 https://t.co/n2eHPpMrvf",
+        "created_at": "2025-04-09T20:57:55+00:00",
+        "lang": "art",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 3944,
+            "reply_count": 1951,
+            "like_count": 28845,
+            "quote_count": 142,
+            "bookmark_count": 635,
+            "impression_count": 4018597
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "quoted",
+                "id": 1910063390145335674,
+                "text": "🚨 @POTUS signs an Executive Order to end the Obama-Biden war on water pressure and Make America's Showers Great Again https://t.co/NO4qaOj0xv",
+                "created_at": "2025-04-09T20:12:54+00:00",
+                "public_metrics": {
+                    "retweet_count": 1922,
+                    "reply_count": 637,
+                    "like_count": 12383,
+                    "quote_count": 396,
+                    "bookmark_count": 666,
+                    "impression_count": 4581122
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910070112335601707,
+        "text": "@russembkenya 😂",
+        "created_at": "2025-04-09T20:39:36+00:00",
+        "lang": "qme",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 52,
+            "reply_count": 141,
+            "like_count": 979,
+            "quote_count": 16,
+            "bookmark_count": 21,
+            "impression_count": 79744
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1909467489454710857,
+                "text": "Tariff wars https://t.co/DQD8RDl3Dt",
+                "created_at": "2025-04-08T04:45:00+00:00",
+                "public_metrics": {
+                    "retweet_count": 11249,
+                    "reply_count": 1986,
+                    "like_count": 85990,
+                    "quote_count": 2547,
+                    "bookmark_count": 3613,
+                    "impression_count": 3312647
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910053061239939072,
+        "text": "@ShannaFaye39 @grok @amuse Thanks for the correction 😀",
+        "created_at": "2025-04-09T19:31:51+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 38,
+            "reply_count": 132,
+            "like_count": 549,
+            "quote_count": 8,
+            "bookmark_count": 17,
+            "impression_count": 22579
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1910043235856368116,
+                "text": "@grok @elonmusk @amuse No sweat. My intention was not to criticize @elonmusk at all. \nJust pointing out a slight discrepancy, as my sense is that he's on the 'perfectionist' side. 😉\n\nWe don't need any more controversy/targeting him for minor issues.",
+                "created_at": "2025-04-09T18:52:48+00:00",
+                "public_metrics": {
+                    "retweet_count": 5,
+                    "reply_count": 8,
+                    "like_count": 131,
+                    "quote_count": 0,
+                    "bookmark_count": 1,
+                    "impression_count": 15698
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910033345494540440,
+        "text": "@BillyM2k 💯",
+        "created_at": "2025-04-09T18:13:30+00:00",
+        "lang": "qme",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 83,
+            "reply_count": 242,
+            "like_count": 1464,
+            "quote_count": 12,
+            "bookmark_count": 37,
+            "impression_count": 219613
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1910031716351369335,
+                "text": "the next 4 years are gonna be an insane roller coaster aren’t they",
+                "created_at": "2025-04-09T18:07:02+00:00",
+                "public_metrics": {
+                    "retweet_count": 104,
+                    "reply_count": 238,
+                    "like_count": 1888,
+                    "quote_count": 17,
+                    "bookmark_count": 29,
+                    "impression_count": 74247
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910031057073889303,
+        "text": "🇺🇸🇺🇸 https://t.co/2c19V4ADZ9",
+        "created_at": "2025-04-09T18:04:25+00:00",
+        "lang": "art",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 7968,
+            "reply_count": 2357,
+            "like_count": 45744,
+            "quote_count": 155,
+            "bookmark_count": 918,
+            "impression_count": 8957980
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "quoted",
+                "id": 1910029948175171823,
+                "text": "President Trump recognizes that economic security is national security. We must reclaim control of the manufacturing, production and supply chains of critical supplies and resources to finally put America First after decades of abuse. https://t.co/lZY5KlNQZg",
+                "created_at": "2025-04-09T18:00:00+00:00",
+                "public_metrics": {
+                    "retweet_count": 1914,
+                    "reply_count": 604,
+                    "like_count": 9509,
+                    "quote_count": 181,
+                    "bookmark_count": 454,
+                    "impression_count": 9289086
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910030852022755616,
+        "text": "😉 https://t.co/jR6ycgAYjc",
+        "created_at": "2025-04-09T18:03:36+00:00",
+        "lang": "qme",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 9554,
+            "reply_count": 7918,
+            "like_count": 91304,
+            "quote_count": 1328,
+            "bookmark_count": 2527,
+            "impression_count": 13003639
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": null,
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910030725992353911,
+        "text": "@EPavlic @amuse Sure",
+        "created_at": "2025-04-09T18:03:06+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 53,
+            "reply_count": 151,
+            "like_count": 694,
+            "quote_count": 9,
+            "bookmark_count": 29,
+            "impression_count": 39862
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1910030062218342724,
+                "text": "@elonmusk @amuse Hey, baby, will you do some livestream tonight? 😎😉 https://t.co/i1Hvkn7aPr",
+                "created_at": "2025-04-09T18:00:28+00:00",
+                "public_metrics": {
+                    "retweet_count": 29,
+                    "reply_count": 43,
+                    "like_count": 341,
+                    "quote_count": 7,
+                    "bookmark_count": 26,
+                    "impression_count": 95500
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910026782495133974,
+        "text": "@amuse Buono sera, buono sera …\nhttps://t.co/ypiJSEQPo3",
+        "created_at": "2025-04-09T17:47:26+00:00",
+        "lang": "it",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 176,
+            "reply_count": 247,
+            "like_count": 1371,
+            "quote_count": 28,
+            "bookmark_count": 70,
+            "impression_count": 131565
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1909905521932382534,
+                "text": "TARIFF: Italy’s President of Campania falsely claims that Elon Musk is a crazy drug addict and he should be locked up in a psychiatric hospital. https://t.co/2x5wIlkUQi",
+                "created_at": "2025-04-09T09:45:35+00:00",
+                "public_metrics": {
+                    "retweet_count": 134,
+                    "reply_count": 218,
+                    "like_count": 799,
+                    "quote_count": 29,
+                    "bookmark_count": 64,
+                    "impression_count": 159135
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910025849170190661,
+        "text": "@amuse The poor deluded fool still thinks the news is real",
+        "created_at": "2025-04-09T17:43:43+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 163,
+            "reply_count": 180,
+            "like_count": 1686,
+            "quote_count": 12,
+            "bookmark_count": 24,
+            "impression_count": 37013
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1909905521932382534,
+                "text": "TARIFF: Italy’s President of Campania falsely claims that Elon Musk is a crazy drug addict and he should be locked up in a psychiatric hospital. https://t.co/2x5wIlkUQi",
+                "created_at": "2025-04-09T09:45:35+00:00",
+                "public_metrics": {
+                    "retweet_count": 134,
+                    "reply_count": 218,
+                    "like_count": 799,
+                    "quote_count": 29,
+                    "bookmark_count": 64,
+                    "impression_count": 159135
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910025347057476044,
+        "text": "@TeslaPodcast ❤️",
+        "created_at": "2025-04-09T17:41:43+00:00",
+        "lang": "qme",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 43,
+            "reply_count": 78,
+            "like_count": 924,
+            "quote_count": 5,
+            "bookmark_count": 9,
+            "impression_count": 28233
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1910007572045705405,
+                "text": "My brother bought his first Tesla last week\n\nOnly took 12 years of convincing for someone in my family to finally get one 😃",
+                "created_at": "2025-04-09T16:31:06+00:00",
+                "public_metrics": {
+                    "retweet_count": 75,
+                    "reply_count": 159,
+                    "like_count": 2624,
+                    "quote_count": 7,
+                    "bookmark_count": 9,
+                    "impression_count": 51554
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910025273564880978,
+        "text": "RT @farzyness: Grok being embedded with X during this tariff fiasco is such an insanely killer app.\n\nThe amount of new info I'm learning is…",
+        "created_at": "2025-04-09T17:41:26+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 792,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 4
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "retweeted",
+                "id": 1909830783289766396,
+                "text": "Grok being embedded with X during this tariff fiasco is such an insanely killer app.\n\nThe amount of new info I'm learning is off the charts.",
+                "created_at": "2025-04-09T04:48:36+00:00",
+                "public_metrics": {
+                    "retweet_count": 792,
+                    "reply_count": 445,
+                    "like_count": 7139,
+                    "quote_count": 32,
+                    "bookmark_count": 126,
+                    "impression_count": 934180
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910025075581149198,
+        "text": "@TheBabylonBee 😂💯",
+        "created_at": "2025-04-09T17:40:39+00:00",
+        "lang": "qme",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 116,
+            "reply_count": 88,
+            "like_count": 1962,
+            "quote_count": 5,
+            "bookmark_count": 14,
+            "impression_count": 92428
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1910018638309957704,
+                "text": "John Oliver Says Men Clearly Have No Physical Advantage As Women Beat Him At Everything https://t.co/18MM2duWLc https://t.co/718bJJJMnU",
+                "created_at": "2025-04-09T17:15:04+00:00",
+                "public_metrics": {
+                    "retweet_count": 594,
+                    "reply_count": 124,
+                    "like_count": 5382,
+                    "quote_count": 23,
+                    "bookmark_count": 47,
+                    "impression_count": 166545
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910024762006598086,
+        "text": "True https://t.co/KQAG9VE1sq",
+        "created_at": "2025-04-09T17:39:24+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 3279,
+            "reply_count": 1115,
+            "like_count": 23692,
+            "quote_count": 66,
+            "bookmark_count": 339,
+            "impression_count": 15063763
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "quoted",
+                "id": 1910022857154756644,
+                "text": "Same. I had never followed government official accounts before, nor had any scintilla of interest because it was always dumb politician pablum printed by interns just tightly reciting meaningless talking points. Under Trump 2, I see genuine honest engagement &amp; it's shocking. https://t.co/5ZdspAkhjs",
+                "created_at": "2025-04-09T17:31:50+00:00",
+                "public_metrics": {
+                    "retweet_count": 1214,
+                    "reply_count": 357,
+                    "like_count": 8919,
+                    "quote_count": 44,
+                    "bookmark_count": 148,
+                    "impression_count": 15382254
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910022586538549636,
+        "text": "@amuse Wild",
+        "created_at": "2025-04-09T17:30:45+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 74,
+            "reply_count": 107,
+            "like_count": 905,
+            "quote_count": 5,
+            "bookmark_count": 14,
+            "impression_count": 26257
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1910020183001121222,
+                "text": "DOGE: Federal workers ordered to return to work from the office refused to get back to work but showed up at the office to protest Trump's mandate. Most federal workers believe it is their right to telework now. https://t.co/2AsLpO7rlN",
+                "created_at": "2025-04-09T17:21:12+00:00",
+                "public_metrics": {
+                    "retweet_count": 232,
+                    "reply_count": 83,
+                    "like_count": 919,
+                    "quote_count": 13,
+                    "bookmark_count": 30,
+                    "impression_count": 32896
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910022220740808823,
+        "text": "@jgebbia 💯",
+        "created_at": "2025-04-09T17:29:18+00:00",
+        "lang": "qme",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 54,
+            "like_count": 485,
+            "quote_count": 5,
+            "bookmark_count": 7,
+            "impression_count": 18752
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1909373282089828703,
+                "text": "Like any beloved company would! https://t.co/il0OfqDzK9",
+                "created_at": "2025-04-07T22:30:39+00:00",
+                "public_metrics": {
+                    "retweet_count": 20,
+                    "reply_count": 7,
+                    "like_count": 352,
+                    "quote_count": 2,
+                    "bookmark_count": 6,
+                    "impression_count": 26340
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910013678289883355,
+        "text": "Insane https://t.co/iul7znEE30",
+        "created_at": "2025-04-09T16:55:21+00:00",
+        "lang": "tr",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 27628,
+            "reply_count": 9294,
+            "like_count": 108630,
+            "quote_count": 1147,
+            "bookmark_count": 4794,
+            "impression_count": 16941941
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "quoted",
+                "id": 1909754771302474162,
+                "text": "Social Security Numbers issued to Non-Citizens over the past four years:\n\n2021 — 270,425 \n\n2022 — 590,193\n\n2023 — 964,163\n\n2024 — 2,095,247\n\n https://t.co/my5Szlr763",
+                "created_at": "2025-04-08T23:46:33+00:00",
+                "public_metrics": {
+                    "retweet_count": 7444,
+                    "reply_count": 2206,
+                    "like_count": 20691,
+                    "quote_count": 871,
+                    "bookmark_count": 2379,
+                    "impression_count": 17652728
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910013247178285293,
+        "text": "Wow https://t.co/75PoggEnTQ",
+        "created_at": "2025-04-09T16:53:39+00:00",
+        "lang": "qst",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 16510,
+            "reply_count": 3663,
+            "like_count": 77356,
+            "quote_count": 405,
+            "bookmark_count": 1310,
+            "impression_count": 10891776
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "quoted",
+                "id": 1910000000177758594,
+                "text": "You can’t make this up…\n\nFederal employees showed up to the office — not to work — but to protest returning to work.\n\n@DOGE and I are fighting to get Washington working for YOU! https://t.co/qrriphp0Fn",
+                "created_at": "2025-04-09T16:01:00+00:00",
+                "public_metrics": {
+                    "retweet_count": 4126,
+                    "reply_count": 995,
+                    "like_count": 15218,
+                    "quote_count": 291,
+                    "bookmark_count": 429,
+                    "impression_count": 11053691
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910001816798212553,
+        "text": "@amuse 🤨",
+        "created_at": "2025-04-09T16:08:13+00:00",
+        "lang": "qme",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 79,
+            "reply_count": 192,
+            "like_count": 1003,
+            "quote_count": 9,
+            "bookmark_count": 12,
+            "impression_count": 32737
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1909976949176357009,
+                "text": "TERROR: Democrats across the country take to lecterns daily to incite violence against Trump &amp; Elon Musk, fueling political violence. This week a Michigan history teacher wished death upon Musk calling him an illegal immigrant. This is happening in 100s of cities.\n\nh/t https://t.co/f7mSlfTvf7",
+                "created_at": "2025-04-09T14:29:24+00:00",
+                "public_metrics": {
+                    "retweet_count": 408,
+                    "reply_count": 139,
+                    "like_count": 1188,
+                    "quote_count": 24,
+                    "bookmark_count": 54,
+                    "impression_count": 45730
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910001107637821653,
+        "text": "Make showers great again! https://t.co/sVh9OLY91j",
+        "created_at": "2025-04-09T16:05:24+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 7397,
+            "reply_count": 3614,
+            "like_count": 44263,
+            "quote_count": 395,
+            "bookmark_count": 1362,
+            "impression_count": 9552252
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "quoted",
+                "id": 1909984421127790936,
+                "text": "In 1992, Congress quietly capped your shower at 2.5 gallons per minute. It was supposed to conserve water. Instead, it killed one of the simplest human joys. You know the feeling: lukewarm mist, high pressure but no weight.\n\nThe “low-flow” shower mandate was buried in a sweeping https://t.co/0XngTieuMo",
+                "created_at": "2025-04-09T14:59:06+00:00",
+                "public_metrics": {
+                    "retweet_count": 1442,
+                    "reply_count": 772,
+                    "like_count": 7013,
+                    "quote_count": 222,
+                    "bookmark_count": 759,
+                    "impression_count": 9869463
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910000919330382158,
+        "text": "RT @DOGE: Contract update!\n\nIn the last two days, agencies terminated 108 wasteful contracts with a ceiling value of $205M and savings of $…",
+        "created_at": "2025-04-09T16:04:39+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 3958,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 4
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "retweeted",
+                "id": 1910000573769822432,
+                "text": "Contract update!\n\nIn the last two days, agencies terminated 108 wasteful contracts with a ceiling value of $205M and savings of $70M, including a $14K @HHSGov contract for an “executive transformational leadership training program” and a $5.2M @USOPM contract to “provide https://t.co/XK1g0UbdQg",
+                "created_at": "2025-04-09T16:03:17+00:00",
+                "public_metrics": {
+                    "retweet_count": 3958,
+                    "reply_count": 1126,
+                    "like_count": 19363,
+                    "quote_count": 134,
+                    "bookmark_count": 310,
+                    "impression_count": 1194750
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1910000786391937411,
+        "text": "@GuntherEagleman 😂",
+        "created_at": "2025-04-09T16:04:08+00:00",
+        "lang": "qme",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 88,
+            "reply_count": 117,
+            "like_count": 1294,
+            "quote_count": 7,
+            "bookmark_count": 13,
+            "impression_count": 32114
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1909989760090653111,
+                "text": "John Kennedy remains one of the funniest Senators. \n\n“AOC's the reason there’s directions on a shampoo bottle.”https://t.co/t9Bx0OOCWQ",
+                "created_at": "2025-04-09T15:20:19+00:00",
+                "public_metrics": {
+                    "retweet_count": 942,
+                    "reply_count": 261,
+                    "like_count": 5736,
+                    "quote_count": 91,
+                    "bookmark_count": 191,
+                    "impression_count": 92337
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909994736120930429,
+        "text": "!! https://t.co/jsu5djqtUO",
+        "created_at": "2025-04-09T15:40:05+00:00",
+        "lang": "qst",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 5832,
+            "reply_count": 1918,
+            "like_count": 29794,
+            "quote_count": 120,
+            "bookmark_count": 494,
+            "impression_count": 19063043
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "quoted",
+                "id": 1909467852991570150,
+                "text": "A judge ruled on Monday that 67 of PA counties may not invalidate mail-in ballots simply because they lack accurate, handwritten dates on their exterior return envelopes, a federal judge ruled Monday.\n\nSo in the midterms, when we lose races it is because of insane rulings like",
+                "created_at": "2025-04-08T04:46:27+00:00",
+                "public_metrics": {
+                    "retweet_count": 6333,
+                    "reply_count": 1361,
+                    "like_count": 19337,
+                    "quote_count": 329,
+                    "bookmark_count": 483,
+                    "impression_count": 19408090
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909992948475044318,
+        "text": "RT @ElonClipsX: Elon Musk: Shallow empathy is caring about criminals. Deep empathy is caring about the victims of the criminals.\n\n“The good…",
+        "created_at": "2025-04-09T15:32:59+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 1941,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 5
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "retweeted",
+                "id": 1909608167408873854,
+                "text": "Elon Musk: Shallow empathy is caring about criminals. Deep empathy is caring about the victims of the criminals.\n\n“The good interpretation of the woke movement is that we want to have empathy for our fellow human beings. Of course, we want to have empathy for our fellow humans. https://t.co/Y9PDptOWYD",
+                "created_at": "2025-04-08T14:04:00+00:00",
+                "public_metrics": {
+                    "retweet_count": 1941,
+                    "reply_count": 684,
+                    "like_count": 9388,
+                    "quote_count": 108,
+                    "bookmark_count": 496,
+                    "impression_count": 922052
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909992760842821669,
+        "text": "Hmm https://t.co/gXZ9i6uwHY",
+        "created_at": "2025-04-09T15:32:14+00:00",
+        "lang": "qst",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 15150,
+            "reply_count": 4211,
+            "like_count": 48143,
+            "quote_count": 530,
+            "bookmark_count": 1174,
+            "impression_count": 8223524
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "quoted",
+                "id": 1909790767742435745,
+                "text": "During the recent Wisconsin Supreme Court race, Milwaukee election officials allegedly processed ballots in secretive back rooms, blocking observers from watching the action. According to The Federalist, windows were covered, mail bins were stacked to obscure views, and the https://t.co/GadwDvEjkD",
+                "created_at": "2025-04-09T02:09:35+00:00",
+                "public_metrics": {
+                    "retweet_count": 10893,
+                    "reply_count": 2396,
+                    "like_count": 23641,
+                    "quote_count": 782,
+                    "bookmark_count": 1157,
+                    "impression_count": 8517695
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909992383967617329,
+        "text": "RT @DefiyantlyFree: DOGE found that immigration officials gave asylum seekers work authorization documents just 5 months after they claimed…",
+        "created_at": "2025-04-09T15:30:44+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 1849,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 4
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "retweeted",
+                "id": 1909956103124742472,
+                "text": "DOGE found that immigration officials gave asylum seekers work authorization documents just 5 months after they claimed asylum. They could work here as an illegal knowing it would take years… https://t.co/V5NKcMP15d",
+                "created_at": "2025-04-09T13:06:34+00:00",
+                "public_metrics": {
+                    "retweet_count": 1849,
+                    "reply_count": 334,
+                    "like_count": 6660,
+                    "quote_count": 48,
+                    "bookmark_count": 196,
+                    "impression_count": 828385
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909992191948476525,
+        "text": "Terrible https://t.co/Q6H1C2Yzwz",
+        "created_at": "2025-04-09T15:29:59+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 25534,
+            "reply_count": 13142,
+            "like_count": 136072,
+            "quote_count": 1265,
+            "bookmark_count": 2369,
+            "impression_count": 23625119
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "quoted",
+                "id": 1909920198317982100,
+                "text": "TERROR: Senator Schumer refused to criticize attacks on Tesla stores, employees, and customers; but willingly criticized Musk for cutting waste, fraud, and abuse from government.  https://t.co/KWDVAsb2K0",
+                "created_at": "2025-04-09T10:43:54+00:00",
+                "public_metrics": {
+                    "retweet_count": 3290,
+                    "reply_count": 2144,
+                    "like_count": 10798,
+                    "quote_count": 553,
+                    "bookmark_count": 430,
+                    "impression_count": 23964208
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909987790584242381,
+        "text": "@SawyerMerritt Tim Walz is a liar",
+        "created_at": "2025-04-09T15:12:29+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 619,
+            "reply_count": 577,
+            "like_count": 10126,
+            "quote_count": 34,
+            "bookmark_count": 40,
+            "impression_count": 151832
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1909987220305371382,
+                "text": "Tim Walz on Elon Musk: \"Once you become successful, don't be a greedy bastard and not pay your taxes. I don't think we should be the party that demonizes someone because they can afford something—they worked hard &amp; got something. We should demonize people like Elon Musk. That's https://t.co/uq5aV2XAxT",
+                "created_at": "2025-04-09T15:10:13+00:00",
+                "public_metrics": {
+                    "retweet_count": 338,
+                    "reply_count": 399,
+                    "like_count": 2881,
+                    "quote_count": 57,
+                    "bookmark_count": 143,
+                    "impression_count": 155500
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909985784976847289,
+        "text": "RT @DavidSacks: This is promising: the U.S. Attorney for the greater Los Angeles area has announced a major investigation into fraud and co…",
+        "created_at": "2025-04-09T15:04:31+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 2312,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 3
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "retweeted",
+                "id": 1909681765469270421,
+                "text": "This is promising: the U.S. Attorney for the greater Los Angeles area has announced a major investigation into fraud and corruption involving homelessness funds. https://t.co/LZPOHE9YkC",
+                "created_at": "2025-04-08T18:56:27+00:00",
+                "public_metrics": {
+                    "retweet_count": 2312,
+                    "reply_count": 800,
+                    "like_count": 15455,
+                    "quote_count": 110,
+                    "bookmark_count": 314,
+                    "impression_count": 1332087
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909985743419916644,
+        "text": "@Jason Absolutely",
+        "created_at": "2025-04-09T15:04:21+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 67,
+            "reply_count": 89,
+            "like_count": 960,
+            "quote_count": 6,
+            "bookmark_count": 16,
+            "impression_count": 83512
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1909685754562781693,
+                "text": "Based on what I've seen in San Francisco, the homeless industrial complex is a grift designed to keep people homeless in order to profit off them. \n\nWhich is pure evil. https://t.co/zNgkTcEM2q",
+                "created_at": "2025-04-08T19:12:18+00:00",
+                "public_metrics": {
+                    "retweet_count": 494,
+                    "reply_count": 221,
+                    "like_count": 5276,
+                    "quote_count": 31,
+                    "bookmark_count": 134,
+                    "impression_count": 221959
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909981378113950075,
+        "text": "@amuse Walz is great at truth evasion",
+        "created_at": "2025-04-09T14:47:00+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 189,
+            "reply_count": 340,
+            "like_count": 2606,
+            "quote_count": 15,
+            "bookmark_count": 20,
+            "impression_count": 123449
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1909885225984811317,
+                "text": "DEFAMATION: Tim Walz falsely accuses Elon Musk of tax evasion despite the billionaire paying more in taxes than any other person in human history.  https://t.co/bnSFW8P0V0",
+                "created_at": "2025-04-09T08:24:56+00:00",
+                "public_metrics": {
+                    "retweet_count": 3065,
+                    "reply_count": 1287,
+                    "like_count": 14868,
+                    "quote_count": 271,
+                    "bookmark_count": 217,
+                    "impression_count": 260991
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909981176925663452,
+        "text": "@GuntherEagleman Absolutely",
+        "created_at": "2025-04-09T14:46:12+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 211,
+            "reply_count": 190,
+            "like_count": 2162,
+            "quote_count": 8,
+            "bookmark_count": 17,
+            "impression_count": 52138
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1909690259610189855,
+                "text": "@elonmusk The last administration broke more rules and norms than any other in history.\n\nTrump has to fix it, no matter what it takes. \n\nStart by arresting some people.",
+                "created_at": "2025-04-08T19:30:12+00:00",
+                "public_metrics": {
+                    "retweet_count": 668,
+                    "reply_count": 233,
+                    "like_count": 5203,
+                    "quote_count": 12,
+                    "bookmark_count": 36,
+                    "impression_count": 104567
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909981053395034391,
+        "text": "@iAnonPatriot They are breaking the law",
+        "created_at": "2025-04-09T14:45:43+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 212,
+            "reply_count": 210,
+            "like_count": 1655,
+            "quote_count": 9,
+            "bookmark_count": 15,
+            "impression_count": 76868
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1909798376347939301,
+                "text": "White liberal woman calls for Donald Trump and Elon Musk to be “bèheaded” \n\n??? https://t.co/urpLiszMnU",
+                "created_at": "2025-04-09T02:39:49+00:00",
+                "public_metrics": {
+                    "retweet_count": 282,
+                    "reply_count": 310,
+                    "like_count": 819,
+                    "quote_count": 56,
+                    "bookmark_count": 36,
+                    "impression_count": 94869
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909980654978334878,
+        "text": "RT @amuse: DOGE: The NIH has been quietly funding a nonprofit that sends direct messages to hundreds of minors’ cellphones, promoting conte…",
+        "created_at": "2025-04-09T14:44:08+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 6529,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 4
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "retweeted",
+                "id": 1909953097972981814,
+                "text": "DOGE: The NIH has been quietly funding a nonprofit that sends direct messages to hundreds of minors’ cellphones, promoting content on “sex toys,” “lesbian sex,” and transgender sex—while actively urging these children not to inform their parents.\n\nh/t @grossmanhannah https://t.co/qHiFv0xxR9",
+                "created_at": "2025-04-09T12:54:38+00:00",
+                "public_metrics": {
+                    "retweet_count": 6529,
+                    "reply_count": 1680,
+                    "like_count": 13532,
+                    "quote_count": 595,
+                    "bookmark_count": 1212,
+                    "impression_count": 1145122
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909979003525722271,
+        "text": "@satofishi @Gillis_SarahE Congratulations!",
+        "created_at": "2025-04-09T14:37:34+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 49,
+            "reply_count": 102,
+            "like_count": 922,
+            "quote_count": 4,
+            "bookmark_count": 9,
+            "impression_count": 24665
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1909911643523527001,
+                "text": "Thrilled to receive our astronaut wings from SpaceX.\n\nThough it wasn’t a competition, I have to admit that I felt a bit nervous watching @Gillis_SarahE play the violin in space—As our precedent mission, Polaris Dawn has set such an incredible standard—brilliantly planned and https://t.co/hJvM383MIl",
+                "created_at": "2025-04-09T10:09:54+00:00",
+                "public_metrics": {
+                    "retweet_count": 288,
+                    "reply_count": 157,
+                    "like_count": 3546,
+                    "quote_count": 17,
+                    "bookmark_count": 94,
+                    "impression_count": 251079
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909891887760371751,
+        "text": "RT @Alice_Weidel: Der Aufwärtstrend für die AfD in den Umfragen verfestigt sich! Es wird immer deutlicher: CDU/CSU und SPD können es nicht!…",
+        "created_at": "2025-04-09T08:51:24+00:00",
+        "lang": "de",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 3542,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 9
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "retweeted",
+                "id": 1909270053255594241,
+                "text": "Der Aufwärtstrend für die AfD in den Umfragen verfestigt sich! Es wird immer deutlicher: CDU/CSU und SPD können es nicht! Die Bürger wollen, dass jetzt endlich angepackt und eine vernünftige bürgerliche Politik für Deutschland gemacht wird! https://t.co/H4wbaRPlz8",
+                "created_at": "2025-04-07T15:40:27+00:00",
+                "public_metrics": {
+                    "retweet_count": 3542,
+                    "reply_count": 1466,
+                    "like_count": 26767,
+                    "quote_count": 122,
+                    "bookmark_count": 353,
+                    "impression_count": 1843167
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909890546698739748,
+        "text": "@ElonClipsX Very",
+        "created_at": "2025-04-09T08:46:05+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 70,
+            "reply_count": 215,
+            "like_count": 1145,
+            "quote_count": 17,
+            "bookmark_count": 31,
+            "impression_count": 50236
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1909574444105736322,
+                "text": "Elon Musk: “It's very difficult to be useful at scale.” https://t.co/by5nwRNDU7",
+                "created_at": "2025-04-08T11:50:00+00:00",
+                "public_metrics": {
+                    "retweet_count": 167,
+                    "reply_count": 54,
+                    "like_count": 1315,
+                    "quote_count": 8,
+                    "bookmark_count": 198,
+                    "impression_count": 57292
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909883305144848448,
+        "text": "💯 https://t.co/24XeSsPwzQ",
+        "created_at": "2025-04-09T08:17:18+00:00",
+        "lang": "art",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 20093,
+            "reply_count": 6314,
+            "like_count": 70150,
+            "quote_count": 604,
+            "bookmark_count": 2526,
+            "impression_count": 15741793
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "quoted",
+                "id": 1909864064823459879,
+                "text": "Democrats issued Social Security numbers to millions of criminal aliens. Below is a graph of new non-citizen Social Security numbers issued.\n\nTheir plan was clear: import illegal immigrants, grant them legal status and transform America into a deep-blue socialist state. https://t.co/W4s0QygG6r",
+                "created_at": "2025-04-09T07:00:51+00:00",
+                "public_metrics": {
+                    "retweet_count": 2853,
+                    "reply_count": 1202,
+                    "like_count": 7370,
+                    "quote_count": 407,
+                    "bookmark_count": 523,
+                    "impression_count": 16029941
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909883189126218031,
+        "text": "RT @ElonClipsX: Victor Davis Hanson: Elon Musk is a Renaissance man, a Da Vinci of our age—and Democrats hate that.\n\n“Elon Musk represents…",
+        "created_at": "2025-04-09T08:16:50+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 3326,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 2
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "retweeted",
+                "id": 1909864606912094527,
+                "text": "Victor Davis Hanson: Elon Musk is a Renaissance man, a Da Vinci of our age—and Democrats hate that.\n\n“Elon Musk represents everything [Democrats] are not. He's a Renaissance man of the 21st century. He reinvented social media. He's saving NASA from itself. He created the whole EV https://t.co/cTkZoTgSlT",
+                "created_at": "2025-04-09T07:03:00+00:00",
+                "public_metrics": {
+                    "retweet_count": 3326,
+                    "reply_count": 925,
+                    "like_count": 14380,
+                    "quote_count": 163,
+                    "bookmark_count": 969,
+                    "impression_count": 1344546
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909883066417590555,
+        "text": "RT @teslaownersSV: “You’ve got to look at Elon Musk, at SpaceX, Tesla, Neuralink – the guy is our Einstein. I'd like to be helpful to him a…",
+        "created_at": "2025-04-09T08:16:21+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 2928,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 3
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "retweeted",
+                "id": 1909864751368221174,
+                "text": "“You’ve got to look at Elon Musk, at SpaceX, Tesla, Neuralink – the guy is our Einstein. I'd like to be helpful to him and his companies as much as we can.”\n https://t.co/56I9G5r1Pd",
+                "created_at": "2025-04-09T07:03:34+00:00",
+                "public_metrics": {
+                    "retweet_count": 2928,
+                    "reply_count": 669,
+                    "like_count": 16900,
+                    "quote_count": 88,
+                    "bookmark_count": 597,
+                    "impression_count": 1252469
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909862988020080931,
+        "text": "RT @MarioNawfal: Former WSJ reporter @AsraNomani  and her Pearl Project names who are actually paying for the attacks...\n\nhttps://t.co/NIHr…",
+        "created_at": "2025-04-09T06:56:34+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 6145,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 5
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "retweeted",
+                "id": 1909702146347381086,
+                "text": "Former WSJ reporter @AsraNomani  and her Pearl Project names who are actually paying for the attacks...\n\nhttps://t.co/NIHr6HgDWQ https://t.co/4SQicsGf0d",
+                "created_at": "2025-04-08T20:17:26+00:00",
+                "public_metrics": {
+                    "retweet_count": 6145,
+                    "reply_count": 961,
+                    "like_count": 19158,
+                    "quote_count": 415,
+                    "bookmark_count": 2346,
+                    "impression_count": 2848628
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909860721657364531,
+        "text": "@jimfarley98 🇺🇸",
+        "created_at": "2025-04-09T06:47:34+00:00",
+        "lang": "qme",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 74,
+            "reply_count": 126,
+            "like_count": 1270,
+            "quote_count": 5,
+            "bookmark_count": 14,
+            "impression_count": 108131
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "replied_to",
+                "id": 1909688047559385532,
+                "text": "We should never lose sight of the breadth and value of American innovation.  It’s the lifeblood of our economy and extends beyond assembly.  I invite anyone to Michigan to see for themselves how the best selling F-150 goes all the way from sketch pad to engineering lab to test https://t.co/ecFBybBy7W",
+                "created_at": "2025-04-08T19:21:25+00:00",
+                "public_metrics": {
+                    "retweet_count": 124,
+                    "reply_count": 148,
+                    "like_count": 1919,
+                    "quote_count": 12,
+                    "bookmark_count": 46,
+                    "impression_count": 177119
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909854301763387673,
+        "text": "Exactly https://t.co/k6IuJcQJnC",
+        "created_at": "2025-04-09T06:22:03+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 13642,
+            "reply_count": 3518,
+            "like_count": 90274,
+            "quote_count": 232,
+            "bookmark_count": 1344,
+            "impression_count": 38468337
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "quoted",
+                "id": 1909794177623138566,
+                "text": "This is why the far-left is freaking out about @DOGE\n\nIt was supposed to be their little secret https://t.co/rTXTi2xvS1",
+                "created_at": "2025-04-09T02:23:08+00:00",
+                "public_metrics": {
+                    "retweet_count": 15884,
+                    "reply_count": 2458,
+                    "like_count": 47456,
+                    "quote_count": 615,
+                    "bookmark_count": 3018,
+                    "impression_count": 40037676
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    },
+    {
+        "id": 1909852202463903887,
+        "text": "RT @AutismCapital: Literally mind blowing. Speechless. 🤯 https://t.co/uo3S7XqgnV",
+        "created_at": "2025-04-09T06:13:43+00:00",
+        "lang": "en",
+        "source": null,
+        "public_metrics": {
+            "retweet_count": 8016,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 10
+        },
+        "author": {
+            "id": 44196397,
+            "name": "Elon Musk",
+            "username": "elonmusk",
+            "description": "",
+            "followers_count": 218790787,
+            "following_count": 1105,
+            "tweet_count": 76714,
+            "verified": false,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+        },
+        "media": null,
+        "referenced_tweets": [
+            {
+                "type": "retweeted",
+                "id": 1909758425086804200,
+                "text": "Literally mind blowing. Speechless. 🤯 https://t.co/uo3S7XqgnV",
+                "created_at": "2025-04-09T00:01:04+00:00",
+                "public_metrics": {
+                    "retweet_count": 8016,
+                    "reply_count": 1463,
+                    "like_count": 30189,
+                    "quote_count": 575,
+                    "bookmark_count": 2549,
+                    "impression_count": 3355857
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+        }
+    }
+]
